@@ -1,11 +1,11 @@
-title: Website Title
+title: my trial Website
 
 description: >
-  Website Description
+  first Website created in the classroom
 
 author:
-  name: Name
-  email: your-email@domain.com
+  name: Frank
+  email: frankfps53@gmail.com
 
 nav_pages:
   - about.md
